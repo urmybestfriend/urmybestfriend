@@ -4,7 +4,7 @@
       <a href="https://t.me/happy0man" rel="nofollow">
         <img align="left" alt="Smile's Telegram" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/raw/main/tg.png" style="max-width: 100%;">
       </a>
-      <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
+      <a href="mailto:ImamEugenaU2K@gmail.com">
         <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" style="max-width: 100%;">
       </a>
       <a href="" rel="nofollow">
