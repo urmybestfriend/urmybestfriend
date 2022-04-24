@@ -10,7 +10,7 @@
       <a href="" rel="nofollow">
         <img align="left" alt="Smile's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
       </a>
-      <a target="_blank" rel="noopener noreferrer" href="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/code.gif">
+      <a target="_blank" rel="noopener noreferrer" href="https://dev.to/smile0307">
         <img align="right" alt="GIF" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/raw/main/code.gif" width="480" height="300" style="max-width: 100%; visibility: visible;" data-xblocker="passed">
       </a>
     </p>
