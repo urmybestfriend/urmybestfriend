@@ -50,7 +50,7 @@
         <img align="left" alt="ETH" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/raw/main/substrate.png" style="max-width: 100%;">
       </a>
     </p>
-    <p data-sourcepos="10:1-15:142" dir="auto">My Posts<br>
+    <p data-sourcepos="10:1-15:142" dir="auto">My Posts
       <a target="_blank" rel="noopener noreferrer" href="https://dev.to/smile0307">
          Go to post
       </a>
