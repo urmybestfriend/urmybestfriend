@@ -1,7 +1,7 @@
 <div class="Box-body p-4">
   <article class="markdown-body entry-content container-lg f5" itemprop="text">
     <p data-sourcepos="1:1-2:150" dir="auto">
-      <a href="https://t.me/happy0man" rel="nofollow">
+      <a href="https://t.me/smile0307" rel="nofollow">
         <img align="left" alt="Smile's Telegram" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/raw/main/tg.png" style="max-width: 100%;">
       </a>
       <a href="mailto:ImamEugenaU2K@gmail.com">
