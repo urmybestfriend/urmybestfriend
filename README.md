@@ -16,7 +16,7 @@
     </p>
     <ul data-sourcepos="3:1-6:0" dir="auto">
       <li data-sourcepos="3:1-3:37">
-        <g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> Fullstack Blockchain Developer
+        <g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji>Talented Fullstack and Blockchain Developer
       </li>
       <li data-sourcepos="4:1-4:42">
         <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Passionate &amp; Trustworthy Freelancer
